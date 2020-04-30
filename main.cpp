@@ -4,11 +4,11 @@ Date:	20200327
 Author: DC.Chneg
 Note:	Git Release
 Brief:	1. image filter
-		2. image sobel/canny
+	2. image sobel/canny
 Reference: 
-		1. https://medium.com/@pomelyu5199/canny-edge-detector-%E5%AF%A6%E4%BD%9C-opencv-f7d1a0a57d19
-		2. https://docs.opencv.org/3.4/da/d5c/tutorial_canny_detector.html
-		3. https://docs.opencv.org/2.4/doc/tutorials/imgproc/imgtrans/sobel_derivatives/sobel_derivatives.html
+	1. https://medium.com/@pomelyu5199/canny-edge-detector-%E5%AF%A6%E4%BD%9C-opencv-f7d1a0a57d19
+	2. https://docs.opencv.org/3.4/da/d5c/tutorial_canny_detector.html
+	3. https://docs.opencv.org/2.4/doc/tutorials/imgproc/imgtrans/sobel_derivatives/sobel_derivatives.html
 **********************************************************/
 #include <windows.h>
 #include <iostream>
