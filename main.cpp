@@ -1,5 +1,5 @@
 /**********************************************************
-Name:	opencv_image_processing
+Name:	imageProcessing_OpenCV_impl
 Date:	20200327
 Author: DC.Cheng
 Note:	Git Release
