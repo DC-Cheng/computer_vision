@@ -1,7 +1,7 @@
 /**********************************************************
 Name:	opencv_image_processing
 Date:	20200327
-Author: DC.Chneg
+Author: DC.Cheng
 Note:	Git Release
 Brief:	1. image filter
 	2. image sobel/canny
