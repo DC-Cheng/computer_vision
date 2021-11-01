@@ -6,4 +6,6 @@
 5. dual camera calibration
 
 # Result #
-![lena-image-filtering-result](https://raw.githubusercontent.com/DC-Cheng/computer_vision/master/db/lena-cmp.png)
+![filtering](https://raw.githubusercontent.com/DC-Cheng/computer_vision/master/db/lena-cmp.png)
+
+![find_chess_board](https://raw.githubusercontent.com/DC-Cheng/computer_vision/master/db/_1_result.jpg)
