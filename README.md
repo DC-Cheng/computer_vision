@@ -3,9 +3,6 @@ OpenCV is a strong and powerful open source computer vision library.
 This is a sample testing repos. 
 Why we need image procesing library? How it comes?
 
-# Pipeline #
-
-
 # Objective #
 1. related to opencv cv::matrix manipulation
 2. related to image filtering
