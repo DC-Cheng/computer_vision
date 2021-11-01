@@ -1,6 +1,11 @@
+# Summary #
+OpenCV is a strong and powerful open source computer vision library. 
+This is a sample testing repos. 
+Why we need image procesing library? How it comes?
+
 # Objective #
 1. related to opencv cv::matrix manipulation
-2. related to image filtering in application used
+2. related to image filtering
 3. related to xml/yml I/O
 4. related to camera calibration -- find chessboard corners
 
