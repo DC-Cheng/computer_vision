@@ -1,9 +1,8 @@
 # Objective #
-1. cv::matrix manipulation
-2. implementation of image filtering
-3. data files (XML/YML) write/read
-4. camera calibration-finding chessboard corners
-5. dual camera calibration
+1. related to opencv cv::matrix manipulation
+2. related to image filtering in application used
+3. related to xml/yml I/O
+4. related to camera calibration -- find chessboard corners
 
 # Result #
 ![filtering](https://raw.githubusercontent.com/DC-Cheng/computer_vision/master/db/lena-cmp.png)
