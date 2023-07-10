@@ -1,22 +1,16 @@
 # Brief 
-OpenCV is a strong and powerful open source computer vision library. 
-This is a sample testing repos. 
+    The repos is to show my work-out in computer vision library. The snnipet shows the code in OpenCV example
 
-# Bullet
-1. to operate open source computer vision (OpenCV) Library
-  - the snnipet will related to filtering operation
-  - the snnipet will related to SVM machine
-  - the snnipet will related to xml/yml I/O
-  - the snnipet will camera calibration
-2. to operate kernel image processing using C/C++ operation
-  - gaussian filter
-  - median filter
-  - ... TBC
+# Action items
+    [ OpenCV ]
+    1. to do image processing with filtering operation in OpenCV library
+    2. to do data format IO with XML/YML in OpenCV library
+    3. to do camera calibration in OpenCV library
 
-# QuickView
-![filtering](https://raw.githubusercontent.com/DC-Cheng/computer_vision/master/db/lena-cmp.png)
+    [ Kernel processing ]
+    1. to run gaussian filter in c/c++
+    2. to run median filter in c/c++
+    
+# Collection
 
-![find_chess_board](https://raw.githubusercontent.com/DC-Cheng/computer_vision/master/db/_1_result.jpg)
-
-# Articles
-- [TBD] - Why do we need image processing library?
+# TODO in Action items
