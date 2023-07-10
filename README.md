@@ -12,7 +12,11 @@ The repos is to show my work-out in computer vision library. The snnipet shows t
 [ Kernel processing ]
 1. to run gaussian filter in c/c++
 2. to run median filter in c/c++
-    
+
+[ Qt-GUI ] 
+0. SIGNAl, SLOTS, QWidget ... 
+1. to vislulize your webcam image in a single button
+
 # Collection
 
 # TODO in Action items
