@@ -15,4 +15,4 @@ The repos is to show my work-out in computer vision library. The snnipet shows t
 
 [ Qt-GUI ]  
 1. SIGNAl, SLOTS, QWidget ...  
-2. to vislulize your webcam image in a single button  
+2. to vislulize your webcam image in a single button. result is shown as `qt-gui-1`
